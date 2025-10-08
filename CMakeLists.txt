@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_subdirectory(symmetric_pyramid)
 add_subdirectory(letter_triangle)
+add_subdirectory(square_creation)
